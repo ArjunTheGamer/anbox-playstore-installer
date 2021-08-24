@@ -1,5 +1,5 @@
 # anbox-playstore-installer
-Thank geeks-r-us for the scripts. I have just fixed his scripts.
+Thank geeks-r-us for the scripts. I have just fixed his scripts for snap version of anbox.
 
 Before running this script run this 2 commands:
 ```

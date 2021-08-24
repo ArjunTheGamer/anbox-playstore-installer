@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Copyright 2019 root@geeks-r-us.de
+# Copyright 2021 ArjunThrGamer
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -22,7 +23,8 @@
 # For further information see: http://geeks-r-us.de/2017/08/26/android-apps-auf-dem-linux-desktop/
 
 # If you find this piece of software useful and or want to support it's development think of
-# buying me a coffee https://ko-fi.com/geeks_r_us
+# Following me on github and
+# buying geeks_r_us a coffee https://ko-fi.com/geeks_r_us
 
 # die when an error occurs
 set -e
